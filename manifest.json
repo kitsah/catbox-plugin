@@ -1,5 +1,5 @@
 {
-  "name": "catbox.moe",
+  "name": "catbox.moe — modified",
   "description": "Upload your silly ahh files larger than 10MBs to catbox.moe.",
   "authors": [
 	  {
@@ -13,6 +13,5 @@
   "main": "index.js",
   "vendetta": {
 	"icon": "ic_file_upload_24px"
-  },
-  "hash": "9e519c717dc5cdede1b7d3397c4e233ecd64395f29edc2aa9465b3d5f4fceea4"
+  }
 }
