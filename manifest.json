@@ -13,6 +13,5 @@
   "main": "index.js",
   "vendetta": {
 	"icon": "ic_file_upload_24px"
-  },
-  "hash": null
+  }
 }
